@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6671-1880
+
+ Directory of C:\Users\apple\Desktop\project1
+
+06/02/2018  02:15 PM    <DIR>          .
+06/02/2018  02:15 PM    <DIR>          ..
+06/02/2018  02:15 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  217,945,141,248 bytes free
